@@ -1,1 +1,1 @@
-"./main.obj" "../lnk_msp430fr5994.cmd" -llibmpu_init.a -llibmath.a -llibc.a 
+"./main.obj" "../New folder/Debug/main.obj" "./New folder/main.obj" "../lnk_msp430fr5994.cmd" "../New folder/lnk_msp430fr6989.cmd" -llibmpu_init.a -llibmath.a -llibc.a 
